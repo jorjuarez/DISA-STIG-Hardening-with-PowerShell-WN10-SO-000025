@@ -1,0 +1,1 @@
+# DISA-STIG-Hardening-with-PowerShell-WN10-SO-000025
