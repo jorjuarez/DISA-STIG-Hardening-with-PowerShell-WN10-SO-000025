@@ -12,7 +12,7 @@ This repository contains the script for the following STIG:
 
 | STIG ID | Description | Script File |
 | :--- | :--- | :--- |
-| **WN10-SO-000025** | The built-in administrator account must be renamed. | [`Set-StigCompliance.WN10-SO-000025.ps1`](./Set-StigCompliance.WN10-SO-000025.ps1) |
+| **WN10-SO-000025** | The built-in administrator account must be renamed. | [`Set-StigCompliance.WN10-SO-000025.ps1`](https://github.com/jorjuarez/DISA-STIG-Hardening-with-PowerShell-WN10-SO-000025/blob/main/STIG-ID-WN10-SO-000025.ps1) |
 
 ---
 
